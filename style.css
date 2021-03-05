@@ -1,0 +1,9 @@
+* {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: rgb(39, 154, 158);
+    text-align: center;
+    transform: translateY(1rem);
+    background-color: rgb(180, 173, 173);
+}
